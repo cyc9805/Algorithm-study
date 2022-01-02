@@ -7,5 +7,5 @@
 - 매주 한 챕터씩 끝내기
 - 각자 문제 맡아서 발표하기
 
-## 강의 교제
+## 강의 교재
 https://github.com/onlybooks/algorithm-interview
