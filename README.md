@@ -1,4 +1,4 @@
-# TAVE_algorithm_study
+# TAVE algorithm study
 ## 참여 인원
 손혜린, 정은, 전용찬
 
